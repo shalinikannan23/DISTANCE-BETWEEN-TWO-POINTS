@@ -28,4 +28,4 @@ print("{:.2f}".format(dis))
 ![OUTPUT](./images/py1.png)
 ![OUTPUT](./images/py2.png)
 ### RESULT:
-Thus the swapping of two values are successfully executed
+Thus successfully created a program to find the distance between the two points
