@@ -8,7 +8,7 @@ import math.
 ### Step 2: 
 List the elements in the array.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  dis=math.sqrt((d2[0]-d1[0])**2+(d2[1]-d1[1])**2)
 ### Step 4: 
 Print the distance using the formula.
 ### Step 5: 
