@@ -25,7 +25,6 @@ dis=math.sqrt((d2[0]-d1[0])**2+(d2[1]-d1[1])**2)
 print("{:.2f}".format(dis))
 ```
 ### OUTPUT:
-![OUTPUT](./images/py1.png)
-![OUTPUT](./images/py2.png)
+![image](https://github.com/shalinikannan23/DISTANCE-BETWEEN-TWO-POINTS/assets/118656529/fde29fe1-dc99-4786-b219-d957878d0321)
 ### RESULT:
 Thus successfully created a program to find the distance between the two points
